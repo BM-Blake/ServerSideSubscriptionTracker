@@ -7,14 +7,14 @@ assignees: BM-Blake
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
-
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+# User Story Template
+**Title:**
+_As a [user role], I want [feature/goal], so that [reason]._
+**Acceptance Criteria:**
+1. [Criteria 1]
+2. [Criteria 2]
+3. [Criteria 3]
+**Priority:** [High/Medium/Low]
+**Story Points:** [Estimated Effort in Points]
+**Notes:**
+- [Additional information or edge cases]
